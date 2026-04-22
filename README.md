@@ -1,4 +1,4 @@
-# merkle
+# Noir ECDSA
 
 A small Noir project for verifying a secp256k1 ECDSA signature.
 
